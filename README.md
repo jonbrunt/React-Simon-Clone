@@ -1,6 +1,6 @@
 # React Simon Clone
 
-This project is a functional clone inspired by the 1980's Milton Bradley game Simon, with minor functional changes. It was build using React. The game may be toggled between Fast and Slow modes (speed of computer's playback of sequence) and Strict mode (on/off...in "on", any missed button in the sequence results in a loss, as opposed to the round repeating). Press start to play. Press reset at any time available to reset the game. Wait for the sequence playback to end and then tap the identical sequence. At the end of the allocated number of button taps for the round, the result will appear (new round, repeat round, lose, or win).
+This project is a functional clone inspired by the 1980's Milton Bradley game Simon, with minor functional changes. It was built using React. The game may be toggled between Fast and Slow modes (speed of computer's playback of sequence) and Strict mode (on/off...in "on", any missed button in the sequence results in a loss, as opposed to the round repeating). Press start to play. Press reset at any time available to reset the game. Wait for the sequence playback to end and then tap the identical sequence. At the end of the allocated number of button taps for the round, the result will appear (new round, repeat round, lose, or win).
 
 ## Getting Started
 
